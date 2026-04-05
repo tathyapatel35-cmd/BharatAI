@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+venv/
+
+node_modules/
+.npm
+
+.vscode/
+.idea/
+*.swp
